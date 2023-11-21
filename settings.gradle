@@ -1,0 +1,4 @@
+rootProject.name = 'dating-be'
+include 'backend-for-frontend'
+include 'data'
+include 'api'
